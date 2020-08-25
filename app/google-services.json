@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241516868255",
+    "firebase_url": "https://munyayi-c42e8.firebaseio.com",
+    "project_id": "munyayi-c42e8",
+    "storage_bucket": "munyayi-c42e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241516868255:android:1e4d895a28080a7cc8a8aa",
+        "android_client_info": {
+          "package_name": "com.munyayi.app.a1x12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241516868255-imcm8let5ku8ntgrgt25q8be00848gvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.munyayi.app.a1x12",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "241516868255-2h22htqsqoerr2m85dk825m3t2hfhato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2-PlsshBNMTFzFne-BaopCrQ0w7g00Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241516868255-2h22htqsqoerr2m85dk825m3t2hfhato.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
